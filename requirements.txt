@@ -1,0 +1,17 @@
+fastapi==0.88.0
+gitpython
+ipython
+kaleido==0.2.1
+mypy==0.991
+mypy-extensions==0.4.3
+numpy==1.24.0
+opencv-python==4.6.0.66
+opencv-python-headless==4.6.0.66
+pandas==1.5.2
+plotly==5.11.0
+PyYAML==6.0
+roboflow==0.2.21
+tensorboard==2.11.0
+tensorboard-data-server==0.6.1
+tensorboard-plugin-wit==1.8.1
+uvicorn==0.20.0

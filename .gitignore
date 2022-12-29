@@ -1,0 +1,14 @@
+venv/*
+input/data/*
+models/best_models_storage/*
+models/runs/detect/*
+models/runs/train/*
+
+*.jpg
+*.jpeg
+*.png
+*.PNG
+*.JPEG
+*.JPG
+*.mp4
+*.pt
