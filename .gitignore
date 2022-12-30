@@ -1,8 +1,9 @@
 venv/*
-input/data/*
-models/best_models_storage/*
-models/runs/detect/*
-models/runs/train/*
+input/**
+input/data/*.txt
+!input/data/*.yaml
+models/**
+models/*.txt
 
 *.jpg
 *.jpeg
@@ -12,3 +13,4 @@ models/runs/train/*
 *.JPG
 *.mp4
 *.pt
+*.csv
